@@ -1,0 +1,18 @@
+# Datos grandes
+data/raw/
+data/interim/
+data/processed/
+
+# Archivos parquet grandes
+*.parquet
+
+# Entornos virtuales
+.venv/
+env/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
